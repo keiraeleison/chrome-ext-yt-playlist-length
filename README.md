@@ -8,11 +8,16 @@ pre-loaded before calculation. Displays a loading icon until we get the numbers.
 
 ## How to Install
 
-Open your Chrome(-based) browser
-    > enter: `chrome://extensions/`
-        > in the upper left corner, click: `Load unpacked`
-            > select folder to load the files from
+Make sure that Developer Mode is enabled!
+    > Open the Chrome Menu in the upper-right-hand corner of your browser
+        > Select More Tools
+            > Developer Tools
+    (You can also use Option + ⌘ + J (on macOS), or Shift + CTRL + J (on Windows/Linux))
 
+Open your Chrome(-based) browser
+    > Enter: `chrome://extensions/`
+        > In the upper left corner, click: `Load unpacked`
+            > Select folder to load the files from
 
 ## If ever touched again.. (optional ToDos)
 
@@ -20,4 +25,4 @@ Open your Chrome(-based) browser
     - refactor content.js
     - change icons to something that makes more sense (I only had these dummy icons lying around ^^;)
     - upload it as an official extension
-
+    - remove console prints
